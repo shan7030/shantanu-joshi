@@ -1,4 +1,4 @@
 # P_W
 Personal Website
 
-Hosted through Github Pages : https://github.com/shan7030/P_W 
+Hosted through Github Pages : https://shan7030.github.io/P_W
