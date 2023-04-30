@@ -19,7 +19,7 @@ export class ExperienceComponent implements OnInit {
         'Worked on various research task POCs, creating design documents for new business features and developing standard pattern lib',
         'Revamped the existing data grid with ag-grid, worked on virtualised lists, pagination, react-beautiful-dnd, lazy loading and infinite scroll to improve the application performance significantly',
         'Responsible for taking interviews and making potential hiring decisions',
-        'Previously working as a product-line head, responsible for gathering requirements, determining technical feasibility, developing proof of concepts based on research findings and implementing those features.',
+        'Previously working as a product-line head, responsible for gathering requirements, determining technical feasibility, developing proof of concepts based on research findings and implementing those features',
       ],
       technologyUsed: [
         'React',
@@ -41,13 +41,13 @@ export class ExperienceComponent implements OnInit {
       companyLink: 'https://www.sms-digital.com/en/',
       companyLocation: 'Pune, India',
       position: 'Full Stack Developer',
-      duration: 'July 20 - May 21',
+      duration: 'Jul 20 - May 21',
       workItems: [
         'Responsible for creating a scalable Product known as Cracks Preventer, heavily involved in creating System Design and architecture from scratch',
         'Developed a real-time alert system to depict ML predictions with 50ms precision using Server sent events and WebSocket APIs',
         'Created backend python services to scale web socket requests, also added user authentication and authorisation',
         'Worked with Product managers and UI/UX Designers to create design standards for the company',
-        'Accoladed with Sprint Champion title for 3 consecutive Sprints in 2021 and Best Performer title for Quarter 4 2020 at SMS Digital',
+        'Accoladed with Sprint Champion title for 3 consecutive Sprints in 2021 and Best Performer title for Quarter 4 2020',
         'Responsible for taking interviews and making potential hiring decisions',
       ],
       technologyUsed: [
@@ -74,7 +74,7 @@ export class ExperienceComponent implements OnInit {
       companyLink: 'https://www.sms-digital.com/en/',
       companyLocation: 'Pune, India',
       position: 'Full Stack Development Intern',
-      duration: 'Feb 20 – June 20',
+      duration: 'Feb 20 – Jun 20',
       workItems: [
         'Implemented Full Stack Web application for analysis of the throughput of various metals and their grades',
         'Responsible for developing both React Frontend and Python Backend services along with User Authentication',
@@ -149,7 +149,7 @@ export class ExperienceComponent implements OnInit {
       companyLink: 'https://www.siemens.com/global/en.html',
       companyLocation: 'Pune, India',
       position: 'Summer Intern',
-      duration: 'Dec 19 – Feb 20',
+      duration: 'May 19 – Jul 19',
       workItems: [
         'Won an opportunity to work in Core Software Developer Team based on Angular Code Sprint',
         'Developed a Limit Administration Portal to create the workflow between Administrator and Client',
